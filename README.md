@@ -89,7 +89,7 @@ To continue with setting up my domain, I went back to Azure and set the DC’s p
 <img src="https://i.imgur.com/EWzPnOh.png" height="70%" width="70%"/>
 </p>
 <p>
-On the Client, I enabled Domain Users to user Remote Desktop to access the Client. Remote Desktop is the only way to log into the VM, so enabling this for Domain Users would allow for any user accounts in the domain to be able to log into this machine.
+I enabled Domain Users to user Remote Desktop to access the Client. Remote Desktop is the only way to log into the VM, so enabling this for Domain Users would allow for any user accounts in the domain to be able to log into this machine.
 </p>
 <br />
 
