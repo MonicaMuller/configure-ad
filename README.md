@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/w7amRI0.png" height="40%" width="60%"/>
 </p>
 
-<h1>Configuring On-premises Active Directory within Azure VMs</h1>In this project, I configured on-premises Active Directory and created user accounts with PowerShell within Azure Virtual Machines.<br />
+<h1>Configuring On-premises Active Directory within Azure Virtual Machines</h1>In this project, I configured on-premises Active Directory and created user accounts with PowerShell within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
